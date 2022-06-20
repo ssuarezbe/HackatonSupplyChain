@@ -16,7 +16,9 @@ Each actor have is own data standard
 Each actor have is own data systems
 Can not get full picture of the supply chain
 Can not detect possible bottlenecks because is do not have the full picture of the supply chain
-Integration is costyl because is requires an specific implementation with each party
+Integration is costyl because is requires an specific implementation with each party\
+Different data sources RFID, IoT and others
+Autonomous vehicles trucks, carho ships, airplanes, train
 
 Actor across the world
 different industries
