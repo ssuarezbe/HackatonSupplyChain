@@ -7,8 +7,8 @@
 
 ## Problem Statement
 
-Modern supply chains depend on the effective and precise orchestration between different producers, distributors, reatailers ,customers, insurance companies, banks and other actors. This actors can be distributed across different geographies and legilizations. This diversity creates a data interoperavility problem that makes the task of getting an holistic supply-chain overbavility an impossible task without a common language. To solve this problem we propose the creation of Open Data Exchange 
-and Observability platform based on [G1 Global Data Model](https://www.gs1.org/standards/gs1-global-data-model) , [G1 GSDN](https://www.gs1.org/standards/gdsn), [x-road](https://x-road.global/) and [other GS1 standard](https://www.gs1.org/standards/standards-overview)
+
+Modern supply chains depend on the effective and precise orchestration between producers, distributors, retailers, customers, insurance companies, banks, and other actors. Moreover, these actors are distributed across different geographies and legalizations. This diversity creates a data interoperability problem that makes the task of getting a holistic supply-chain Observability an impossible task without a common language. To solve this problem, we propose the creation of an Open Data Exchange and Observability platform based on [GS1 Global Data Model](https://www.gs1.org/standards/gs1-global-data-model) , [GS1 GDSN](https://www.gs1.org/standards/gdsn), [x-road](https://x-road.global/), and [other GS1 standards](https://www.gs1.org/standards/standards-overview).
 
 
 # About
